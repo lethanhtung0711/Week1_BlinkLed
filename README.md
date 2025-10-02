@@ -9,10 +9,11 @@ Chúng ta điều khiển một LED ngoài bằng **single click** và **double 
 - **Long press** (giữ lâu) **không còn sử dụng** trong phiên bản này.
 
 ## Phần cứng
-- Arduino (UNO, Nano, ESP32…)
-- LED + điện trở hạn dòng (220–330 Ω)
+- Module ESP32
+- LED + điện trở 
 - Nút nhấn (button)
-- Dây nối breadboard
+- Dây nối
+- Breadboard
 
 ### Kết nối
 - LED -> GPIO 5 (qua điện trở, về GND)
