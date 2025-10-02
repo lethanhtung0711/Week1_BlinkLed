@@ -21,4 +21,4 @@ Chúng ta điều khiển một LED ngoài bằng **single click** và **double 
 ## Cài đặt
 1. Clone repo về:
    ```bash
-   git clone <link-repo>
+   git clone https://github.com/lethanhtung0711/Week1_BlinkLed.git
